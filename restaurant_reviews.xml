@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<restaurant_reviews xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.algonquincollege.com/cst8259/labs">
+  <restaurant>
+    <restaurant_name>Giovanni’s Italia Fine Dinning </restaurant_name>
+    <website>www.giovannis.com</website>
+    <logo>
+      <width>200</width>
+      <height>200</height>
+      <unit>px</unit>
+      <path>www.gioviannis.com/img/logo.gif</path>
+    </logo>
+    <address>
+      <street>2100 Lakeview Road</street>
+      <city>Toronto</city>
+      <province>ON</province>
+      <postal_code>K1K 1K1</postal_code>
+    </address>
+    <phone>416-123-4567</phone>
+    <rating min="1" max="5">4</rating>
+    <food_type>Italian</food_type>
+    <cost min="1" max="4">4</cost>
+    <date>
+      <year>2020</year>
+      <month>January</month>
+      <day>10</day>
+    </date>
+    <reviewer>Hunter S. Thompson</reviewer>
+    <summary>Giovanni’s Italia Fine Dinning is a completely restored Victorian stone house and			offers a warm and elegant atmosphere and gracious service.		</summary>
+    <menu>
+      <appetizers>
+        <item>
+          <name>Crab cakes</name>
+          <description>With a creamy dill sauce served with crispy herbed fries.</description>
+          <price quantity="1">23.00</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name />
+          <description>Garden vegetable soup with chocolate sauce.</description>
+          <price quantity="1">15.00</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Calamari Fritta</name>
+          <description>
+						Tender rings of squid, dusted in flour and lightly fried, served
+						with sun-dried tomato aioli
+					</description>
+          <price quantity="1">12.50</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Charcuterie Board</name>
+          <description>
+						Selection of cheeses and cured meats served with a variety of
+						breads and crostinis
+					</description>
+          <price quantity="1">20.00</price>
+          <price quantity="" />
+        </item>
+      </appetizers>
+      <entrees>
+        <item>
+          <name>House Specialty</name>
+          <description>
+						Pan seared chicken supreme with a sun-dried tomato pistachio pesto
+						cream sauce, served with roasted potatoes and seasonal vegetables.
+					</description>
+          <price quantity="1">28.00</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name />
+          <description>Braised jumbo sea scallops on a sun-dried roast tomato base</description>
+          <price quantity="1">39.00</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name />
+          <description>Free-range chicken breast stuffed with morels in a brandy sauce</description>
+          <price quantity="1">31.00</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Eggplant Pamigiana</name>
+          <description>
+						Fresh eggplant, thinly sliced and breaded, topped with tomato sauce
+						and mozzarella cheese, baked golden brown. Served with linguine in tomato sauce.
+					</description>
+          <price quantity="1">30.00</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name />
+          <description>Roast pork loin on a bed of garlic ginger apple slaw</description>
+          <price quantity="1">34.00</price>
+          <price quantity="" />
+        </item>
+      </entrees>
+    </menu>
+  </restaurant>
+  <restaurant>
+    <restaurant_name>Gong’s Asian Cuisine sdfasdf</restaurant_name>
+    <website>www.asiancuisine.com</website>
+    <logo>
+      <width>250</width>
+      <height>250</height>
+      <unit>px</unit>
+      <path>www.asiancuisine.com/resouce/images/cuisine.jpg</path>
+    </logo>
+    <address>
+      <street>1385 Woodroffe Avenue</street>
+      <city>Ottawa</city>
+      <province>ON</province>
+      <postal_code>K2G 1V8</postal_code>
+    </address>
+    <phone>613-727-4723</phone>
+    <rating min="1" max="5">5</rating>
+    <food_type>Asian</food_type>
+    <cost min="1" max="4">1</cost>
+    <date>
+      <year>2020</year>
+      <month>December</month>
+      <day>3</day>
+    </date>
+    <reviewer>Brenda P. Smith</reviewer>
+    <summary>The food is always consistent. A good variety of dim sum, sushi, Chinese and even			Vietnamese dishes. The service is quick and the food is plentiful. We sat down last night and			within seconds of turning in our first order, the plates were on the table! The teriyaki			dishes had the right amount of sauce and weren't sickeningly sweet. The chicken, fish, and			beef were perfectly cooked. The makirolls were neatly rolled, cut properly and seasoned well.			Loved the General Tao chicken, the steamed BBQ pork buns, the eel sushi and the lovely			eggplant. We will be going back again! I would highly recommend it.		</summary>
+    <menu>
+      <appetizers>
+        <item>
+          <name>Egg Roll</name>
+          <description />
+          <price quantity="1">1.50</price>
+          <price quantity="12">15.00</price>
+        </item>
+        <item>
+          <name>Spring Roll</name>
+          <description />
+          <price quantity="1">1.90</price>
+          <price quantity="12">20.00</price>
+        </item>
+        <item>
+          <name>Shrimp Chips</name>
+          <description />
+          <price quantity="1">2.50</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Fried Noodles</name>
+          <description />
+          <price quantity="1">1.00</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Sweet &amp; Sour Fried Wonton Skin</name>
+          <description />
+          <price quantity="" />
+          <price quantity="12">3.50</price>
+        </item>
+      </appetizers>
+      <entrees>
+        <item>
+          <name>Scallops with Vegetables</name>
+          <description />
+          <price quantity="1">14.95</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Sweet and Sour Fish Cantonese Style</name>
+          <description />
+          <price quantity="1">13.95</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Shrimps with Vegetables</name>
+          <description />
+          <price quantity="1">12.95</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Beef with Mushroom</name>
+          <description />
+          <price quantity="1">12.25</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Beef with Tomato</name>
+          <description />
+          <price quantity="1">10.25</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Beef with Broccoli</name>
+          <description />
+          <price quantity="1">9.25</price>
+          <price quantity="" />
+        </item>
+      </entrees>
+    </menu>
+  </restaurant>
+  <restaurant>
+    <restaurant_name>Baker Street TexMex Grilldsfdsfsd</restaurant_name>
+    <website>www.texmaxgrill.com</website>
+    <logo>
+      <width>150</width>
+      <height>150</height>
+      <unit>px</unit>
+      <path>www.texmex.com/images/texmex.jpg</path>
+    </logo>
+    <address>
+      <street>200 Baker Street</street>
+      <city>Ottawa</city>
+      <province>NV</province>
+      <postal_code>B1G 1V1</postal_code>
+    </address>
+    <phone>613-333-4444</phone>
+    <rating min="1" max="5">5</rating>
+    <food_type>Mexican</food_type>
+    <cost min="1" max="4">3</cost>
+    <date>
+      <year>2021</year>
+      <month>January</month>
+      <day>3</day>
+    </date>
+    <reviewer>Peter Jones</reviewer>
+    <summary>My favorite restaurant in Ottawa. The family who owns it are very warm and lovely			people. They are incredible at recognizing you when you come back. The burritos are super			good. You can customize however you want (guac is included!). I especially love that there is			cactus in the veggie mix; it is a small, special thing that sets this place apart from other			Mexican spots downtown.		</summary>
+    <menu>
+      <appetizers>
+        <item>
+          <name>Chips and Pico De Gallo</name>
+          <description>Gluten friendly, vegan, vegetarian</description>
+          <price quantity="1">7.75</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Chips and Black Beans and Cheese</name>
+          <description />
+          <price quantity="1">8.75</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Shrimp Chips</name>
+          <description />
+          <price quantity="1">2.50</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Sopa de Tortilla</name>
+          <description>
+						Tomato-based soup topped with homemade tortilla strips, sour cream,
+						cheese, and avocado.
+					</description>
+          <price quantity="1">6.75</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Consome de Pollo</name>
+          <description>
+						Chicken broth with rice, chickpeas, carrots, peas, and shredded
+						chicken, served with cilantro, onion, avocado, and lime
+					</description>
+          <price quantity="1">9.75</price>
+          <price quantity="" />
+        </item>
+      </appetizers>
+      <entrees>
+        <item>
+          <name>Burrito</name>
+          <description>
+						Ten-inch flour tortilla filled with black beans, rice, lettuce,
+						cheese, pico de gallo, guacamole, and choice of protein.
+					</description>
+          <price quantity="1">10.50</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Burrito Combo</name>
+          <description>
+						Ten-inch flour tortilla filled with black beans, rice, lettuce,
+						cheese, pico de gallo, guacamole, and choice of protein
+					</description>
+          <price quantity="1">13.50</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Burrito Roja</name>
+          <description>
+						Ten-inch flour tortilla filled with Mexican rice, black beans,
+						guacamole, and choice of protein. Bathed in Chilaquile's homemade salsa roja.
+					</description>
+          <price quantity="1">16.50</price>
+          <price quantity="" />
+        </item>
+        <item>
+          <name>Enchiladas</name>
+          <description>
+						Gluten friendly. Lightly sauteed corn tortillas, choice of filling,
+						covered in Chilaquile's homemade salsa verde or salsa roja, topped with onions
+					</description>
+          <price quantity="1">23.00</price>
+          <price quantity="3">18.50</price>
+        </item>
+        <item>
+          <name>Enchiladas de Mole</name>
+          <description>
+						Gluten friendly. Lightly sauteed corn tortillas, choice of filling,
+						covered in mole sauce, topped with onions, sour cream, and crumbled cheese.
+					</description>
+          <price quantity="" />
+          <price quantity="3">20.50</price>
+        </item>
+      </entrees>
+    </menu>
+  </restaurant>
+</restaurant_reviews>
